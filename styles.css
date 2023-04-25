@@ -1,0 +1,29 @@
+.room{
+    text-align: center
+    ;
+    margin-top: 80px;
+    color: white;
+    font-size: medium;
+  }
+    body{
+     background-color: black;
+
+    }
+
+    .fish{
+  font-size: 120px;
+  margin-top: 20px;
+
+    }
+
+    .ball{
+      font-size: 15px;
+      color: greenyellow;
+
+    }
+
+   .cat{
+     background-color: greenyellow;
+     color:black;
+     margin-top: 100px;
+    font-style: italic;
