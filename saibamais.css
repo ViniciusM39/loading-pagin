@@ -1,1 +1,25 @@
+body{
+}
+.chupetao{
+  text-align: center;
+  color: greenyellow;
+margin-top: 100px;
+font-size: 70px;
 
+
+}
+.horses{
+ text-align: center;
+}
+
+img
+{
+  align-items: center;
+   height: 400px;
+ width: 500px;
+}
+.twohorse{
+  font-size: 20px;
+ font-weight: bold;
+ font-style: oblique;
+}
