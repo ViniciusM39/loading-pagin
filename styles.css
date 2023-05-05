@@ -1,3 +1,4 @@
+
 .room{
     text-align: center
     ;
@@ -20,10 +21,40 @@
       font-size: 15px;
       color: greenyellow;
 
-    }
 
-   .cat{
-     background-color: greenyellow;
-     color:black;
-     margin-top: 100px;
-    font-style: italic;
+    }
+.container {
+       height: 100%;
+       margin-top: 50px;
+   }
+
+   div.op1 {
+       width: 38%;
+       display: inline-block;
+       text-decoration: underline;
+       font-size: 15px;
+       text-align: center;
+       height: 70px;
+       
+
+   }
+
+   div.op2 {
+     font-weight: bold;
+       width: 160px;
+       height: 22px;
+      display: inline-block;
+      background-color: greenyellow;
+       font-size: 15px;
+       text-align: center;
+       color: black;
+       margin-left: 20px;
+      margin-right: 20px;
+      
+   }
+div.op3{
+  text-align: center;
+  color: white;
+  margin-top: 60px;
+
+  }
